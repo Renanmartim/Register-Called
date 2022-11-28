@@ -1,5 +1,3 @@
-# Register-Called
-
 # About Project
 
 - This project aims to implement the registration of calls for a possible IT or maintenance area.
